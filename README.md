@@ -1,6 +1,6 @@
 # Code Review To Communication Network
 
-Data collection pipeline for the study "The Upper Bound of Information Diffusion in Code Review"
+Data collection pipeline for the study "The Capability of Code Review as Communication Network"
 
 ## Introduction
 
